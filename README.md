@@ -1,4 +1,6 @@
-# Plano de Ação!
+# Multiagent Contract Net Protocol Trials
+
+## Plano de Ação!
 
 Acho que a ideia mais inteligente é ter apenas o código de 2 agentes, um responsável pelos *initiators* e um responsavel pelos *participants*. Cada um desses agentes criará os nosso outros agentes que irão operar no sistema.
 
